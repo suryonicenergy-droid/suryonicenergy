@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /admin.html
-Disallow: /privacy.html
-
 Sitemap: https://suryonicenergy-droid.github.io/suryonicenergy/sitemap.xml

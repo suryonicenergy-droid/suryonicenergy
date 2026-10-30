@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/about.html</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/services.html</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/pm-surya-ghar.html</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/calculator.html</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/projects.html</loc></url>
-  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/contact.html</loc></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/services.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/pm-surya-ghar.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/calculator.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/projects.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/pricing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/reviews.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/contact.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://suryonicenergy-droid.github.io/suryonicenergy/privacy.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
 </urlset>
